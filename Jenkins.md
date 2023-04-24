@@ -28,11 +28,11 @@ Hundson也可以整合GitHub或Subversion
 
 ---
 
-![Aaron Swartz](https://raw.githubusercontent.com/TianyuSANG/Doc/main/jpg/Manual Jenkins.jpg)
+![Aaron Swartz](https://github.com/TianyuSANG/Document/raw/main/jpg/Manual%20Jenkins.jpg)
 
 ---
 
-![Aaron Swartz](https://raw.githubusercontent.com/TianyuSANG/Doc/main/jpg/Auto Jenkins.jpg)
+![Aaron Swartz](https://github.com/TianyuSANG/Document/raw/main/jpg/Auto%20Jenkins.jpg)
 
 ## Kubeadm
 
